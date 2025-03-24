@@ -26,7 +26,7 @@ public class Uni4Exe21 {
             System.out.println("Obesidade Grau II (severa)");
         } else if (imc >= 40) {
             System.out.println("Obesidade Grau III (mórbida)");
-        }
+        } 
         scan.close();
     }
 }
